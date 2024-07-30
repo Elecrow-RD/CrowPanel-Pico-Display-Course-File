@@ -24,9 +24,9 @@
 #define TOUCH_GT911_RST 29 // 38
 // #define TOUCH_GT911_EN 25 //-1
 #define TOUCH_GT911_ROTATION ROTATION_NORMAL
-#define TOUCH_MAP_X1 320// 800 // 480
+#define TOUCH_MAP_X1 800// 800 // 480
 #define TOUCH_MAP_X2 0
-#define TOUCH_MAP_Y1 240// 480 // 272
+#define TOUCH_MAP_Y1 480// 480 // 272
 #define TOUCH_MAP_Y2 0
 
 /* uncomment for XPT2046 */
