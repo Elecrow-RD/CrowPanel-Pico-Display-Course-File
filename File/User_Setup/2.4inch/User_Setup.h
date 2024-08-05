@@ -99,7 +99,7 @@
 // sketch. e.g. with digitalWrite(TFT_BL, LOW);
 
 // #define TFT_BL   32            // LED back-light control pin
-// #define TFT_BACKLIGHT_ON HIGH  // Level to turn ON back-light (HIGH or LOW)
+ #define TFT_BACKLIGHT_ON HIGH  // Level to turn ON back-light (HIGH or LOW)
 
 // We must use hardware SPI, a minimum of 3 GPIO pins is needed.
 // Typical setup for the RP2040 is :
